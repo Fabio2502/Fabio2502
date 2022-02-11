@@ -1,11 +1,11 @@
-Fabio Baptista
-Hello, Devs!!
+Fabio Baptista 👍
+Hello, Devs!! 👋
 
 
-- 💻 Universitario em Analise e Deselvolvimento de Sistemas
-- 🌱 Atualmente estou aprendendo: C++ 
+- 💻 University in Systems Analysis and Development
+- 🌱 I'm currently learning: C++ 
 - 👨‍🏫 Teachers: Mayk Brito and Jake Gracielly
-- ⚡ Curiosidade: Gamer em horas vagas
+- ⚡  Curiosity: Gamer in spare time
 
 
 ### Ferramentas e Tecnologias
