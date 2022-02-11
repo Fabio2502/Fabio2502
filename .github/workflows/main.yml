@@ -11,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
+
         with:
           github_user_name: seu-usuário-aqui
           svg_out_path: dist/github-contribution-grid-snake.svg
