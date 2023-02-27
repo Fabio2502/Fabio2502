@@ -3,7 +3,7 @@ Hello, Devs!! 👋
 
 
 - 💻 University in Systems Analysis and Development
-- 🌱 I'm currently learning: C++ 
+- 🌱 I'm currently learning: React Native 
 - 👨‍🏫 Teachers: Mayk Brito and Jake Gracielly
 - ⚡  Curiosity: Gamer in spare time
 
